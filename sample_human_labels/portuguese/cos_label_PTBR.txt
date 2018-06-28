@@ -1,0 +1,49 @@
+------sample_datasets/portuguese/Smartphone_Samsung_Galaxy_S7_SM-G930_32GB_bateria.txt
+---Pos
+duração 3 4 7 9 10 11 12 15 18 20 21 23 
+velocidade 1 14 18 24
+geral 2 5 6 13 17 19 22 
+economia 8
+outros 16
+---Neg
+duração 1 2 5 7 8 9 10 15
+geral 3 4 5 11 13 14 15 16
+uso 6 9 12
+------sample_datasets/portuguese/Smartphone_Samsung_Galaxy_S7_SM-G930_32GB_preco.txt
+---Pos
+geral 1 11
+custo 2 5 7 11 12 13 14 15
+custo-benefício 3 4 6 7 8 9 10
+desempenho 12
+---Neg
+geral 1 5 7 8 11 14 15 16 17
+custo 2 3 4 5 6 9 10 14 17
+custo-benefício 10 12 13
+desempenho 9
+------sample_datasets/portuguese/Smartphone_Motorola_Moto_G_5_Plus_XT1683_armazenamento.txt
+---Pos
+memoria_interna 1 5 10
+memoria_ram 6
+cartao_memoria 2
+geral 3 4 7 8 9
+---Neg
+memoria_interna 3 4 5
+memoria_ram 1 5 6 7 8
+cartao_memoria 2
+geral 3
+------sample_datasets/portuguese/Smartphone_Motorola_Moto_G_5_Plus_XT1683_camera.txt
+---Pos
+vídeo 1
+geral 2 4 5 6 7 8 10 11 13
+resolução 3
+funcionalidade 5
+foto 9
+foco 12
+velocidade 13
+---Neg
+geral 1 2 4 5 6 9 11
+funcionalidade 3
+resistência 7
+estabilidade 8
+zoom 10 11
+foto 11

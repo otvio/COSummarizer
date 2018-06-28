@@ -1,0 +1,32 @@
+[1] 1 -   Bom preço.
+[1] 2 -   Vale o que custa.
+[1] 3 -   Excelente custo beneficio.
+[1] 4 -   Agora com o lançamento do s8 e consequente queda de preço tornou-se um dos melhores custo-benefício do mercado.
+[1] 5 -   Vale todo o investimento para quem busca um produto premium.
+[1] 6 -   Excelente custo beneficio...
+[1] 7 -   A r$2200,00 na promoção da fast, é o melhor custo-benefício do mercado até o momento.
+[1] 8 -   Melhor custo beneficio.
+[1] 9 -   Depois de pesquisar, achei que esse seria o melhor custo benefício.
+[1] 10 -   Baixo custo-benefício (como os demais high-ends)
+[1] 11 -   Excelente smartphone, um pouco mais caro que a maioria porém vale cada centavo.
+[1] 12 -   Tudo o que eu queria e esperava pode parecer um pouco caro, mas faz toda diferença para quem procura rapidez e agilidade assim como eu, pois garanto que não vai se arrepender. 
+[1] 13 -   Eu tinha um iphone e pelo alto custo optei pela s7 samsung.
+[1] 14 -   É um valor caro a se pagar, mas vale a pena.
+[1] 15 -   O custo é alto, mas ainda é menor do que dia iphone equivalentes.
+[0] 1 -   Caro.
+[0] 2 -   Poderia custar mais barato.
+[0] 3 -   Poderia ser mais barato.
+[0] 4 -   O aparelho poderia ser um pouco mais barato.
+[0] 5 -   O preço é alto, mas eu espero que a durabilidade compense o alto investimento.
+[0] 6 -   O problema pra mim é o custo.
+[0] 7 -   Caríssimo.
+[0] 8 -   É caro demais.
+[0] 9 -   Paguei r$ 2.000 porque realmente eu precisava de um aparelho top, uma vez que meu s5 travava demais. mas só indico gastar essa pequena fortuna pra quem dependa de um celular de alta performance ou quem esteja nadando no dinheiro.
+[0] 10 -   Em seu preço original de $4200,00, não vale a pena.
+[0] 11 -   Caro.
+[0] 12 -   Peca um pouco no custo benefício.
+[0] 13 -   Podia ter melhor custo-benefício.
+[0] 14 -   Só o preço que é alto demais.
+[0] 15 -   Pouco tempo mas caro para o que oferece.
+[0] 16 -   Uma dica: coloquem no seguro porque nao é barato!
+[0] 17 -   O preço ainda é salgado, como tudo que é bom no brasil. nada de novidade neste quesito.

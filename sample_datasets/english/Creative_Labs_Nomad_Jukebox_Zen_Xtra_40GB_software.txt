@@ -1,0 +1,78 @@
+[1] 1 - the software is great .
+[1] 2 - transfering is easy , the software makes everythig pretty easy .
+[1] 3 - software is easy to use ( although redhat software is better , but costs money )
+[1] 4 - so far the software for the pc works easily .
+[1] 5 - all in all this a great player that blows the i-pod away , with easy to use and understand features , software that is simple to understand and use , and a great sound ( which is all that matters in a mp3 player ) .
+[1] 6 - the software is very easy to use , and within 30 minutes of opening my box , i was out and about listening to any one of my 80 cds .
+[1] 7 - the software was great , as long as you have an adminstrative user account ( windows xp ) .
+[1] 8 - both are very easy to learn & use , and intuitive enough for even a novice .
+[1] 9 - i found using the supplied mediasource software very easy .
+[1] 10 - i had no problems setting up the software and getting my favorite cd 's transferred .
+[1] 11 - the player 's software is very easy to use and very good .
+[1] 12 - compared to musicmatch , the software has a better filing system and easier to use .
+[1] 13 - i 've had no problems with the software .
+[1] 14 - i found it intuitive to use ( i did n't read any documentation for it and was using it successfully within a few minutes ) .
+[1] 15 - this is a nice feature ( i.e. it 's early in the morning and you rather listen to " easy listening " rather than " heavy metal " - no problem .
+[1] 16 - the software comes with plenty of defaults genres .
+[1] 17 - although the supplied software can be annoying at times , on whole it is excellent .
+[1] 18 - the software has n't been a hassle for me at all .
+[1] 19 - i uploaded the drivers and new software in 15 minutes - no crashes or problems .
+[1] 20 - the software installed flawlessly and without any problems on my windows 2k machine .
+[1] 21 - many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running windows me .
+[1] 22 - the software runs smooth , it 's nice to look at , it 's very organized , easy to follow and makes things very simple .
+[1] 23 - the software could n't be better and the mp3 player works like a dream , i could n't give this anything but a 5 , i wish there was a 6 .
+[1] 24 - a lot of people complain about the creative software , but i actually find creative mediasource organizer to have some strengths over itunes .
+[1] 25 - third , creative software allows you to keep two windows open to look at both the content on the player and the computer .
+[1] 26 - the software is quick & easy to use & i found the entire process very easily mastered .
+[1] 27 - extremely convenient .
+[1] 28 - i thought the software was decent enough - it was n't complicated to learn at all .
+[1] 29 - the new organizer software that ships with the nomad zen xtra could n't be easier to use .
+[1] 30 - given that i already have the zen the only reason i am happy with it is because of the notmad software .
+[1] 31 - many have complained about the software included but in my opinion it 's easy to use and effective .
+[1] 32 - great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timers ; multiple play modes
+[1] 33 - fact is , it could n't be easier to use .
+[1] 34 - if you use software correctly , put in all the id3 tags , you will get an awesome database collection , from which you can easily access your songs .
+[1] 35 - i dont know what other people are saying , but the software is awesome .
+[1] 36 - the software interface supplied was very easy to use but i went ahead and got red chair 's " notmad " software because of some advanced features i wanted .
+[1] 37 - it was no problem for me to use their software .
+[0] 1 - the main problem with the nomad jukebox zen xtra 30 gb is the software .
+[0] 2 - the interface software itself , which should be user-friendly , was anything but easy-to-use .
+[0] 3 - deficiencies with zennx are easily overcome with 3rd-party earphones ( $ 20 + ) and software ( $ 25 ).
+[0] 4 - software - music match jukebox is n't the greatest , the search funtion is n't fast even when accessing it with the hotkey shortcut .
+[0] 5 - - included creative software is pretty poor .
+[0] 6 - had there been strange noises , or obvious defects , i would have accepted a replacement , but this is clearly from a defective and inferior operating system and i for one do not intend on waiting for patches .
+[0] 7 - however , the creative software is not real intuitive .
+[0] 8 - the software is somewhat nice to look at , using it is not the easiest .
+[0] 9 - the software , which comes with player is not good at all .
+[0] 10 - so yes , as with all software bundled with creative products , it was useless and ugly .
+[0] 11 - d ) software is another great misfortune -- hard to operate , crashes frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on
+[0] 12 - the software failed repeatedly .
+[0] 13 - software downloads on the site crashed my pc .
+[0] 14 - the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt .
+[0] 15 - on my main computer the software did not work right .
+[0] 16 - software - the software is crap .
+[0] 17 - otherwise , it is difficult to figure out and awkward .
+[0] 18 - but the major problem i had was with the software .
+[0] 19 - what really made this a mediocre mp3 player for me was the software .
+[0] 20 - my only reservations about this product concern the tagging process and the way it interacts with the software .
+[0] 21 - also , i can 't understand why the software does not ignore " the " when it lists the cds in alphabetical order .
+[0] 22 - there are a couple things i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 mins ) , and this thing would definitely be destroyed with one fall .
+[0] 23 - finally the software used to put all the songs into it is vastly inferior to itunes on two levels , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format sucks , flat out sucks in terms of sound quality compared with the vastly superior aac format the apple ipod uses and it sticks you with one of the sub par paid music services such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best .
+[0] 24 - * software is absolutely terrible :
+[0] 25 - -- > you 'll be changing track information a lot because the cd database information utilized by the software is mediocre at best .
+[0] 26 - a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be .
+[0] 27 - my one issue with the mediasource software is that , despite pulling id3 tag data from the cdds service , the ripping process fails to populate the " year " field .
+[0] 28 - the only two things that stop me from giving it 5 stars are the ho-hum software that comes with the system , and the traveling case it comes with .
+[0] 29 - this player is an overall disappointment with a couple of big flaws that potential buyers should be wary of ; and all readers need to know about a third party software company that resolves virtually all of the creative mediasource file transfer issues .
+[0] 30 - 1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cds before i bought the zen ( 278 cds ; 3,400 tracks ; 12.5 gb of music all ripped at 128bps ) and guess what ?
+[0] 31 - the pc-side software can be goofy and takes a little getting used to but it 's not as bad as some reviewers have indicated .
+[0] 32 - - the software that came with it was tough to load .
+[0] 33 - about 10 % of the time it can 't find the device when i attach it to my pc .
+[0] 34 - the software sucks .
+[0] 35 - software definitely sucks , hangs up my notebook about half the time , but i do n't mind buying notmad .
+[0] 36 - the creative software is awkward / difficult to use and just plain does n't load on some computers .
+[0] 37 - in fact , each of my creative mp3 players had software problem in the first place .
+[0] 38 - in short , this player is good at size , value , hardware design but really bad at its software
+[0] 39 - creative software stinks .
+[0] 40 - the software is not good either and the driver has trouble working with other sound blaster products , which is very dumb .
+[0] 41 - the controls are somewhat harder to use , and there are some oddities about the software tagging system , but most people can live with this .

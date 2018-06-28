@@ -1,0 +1,40 @@
+[1] 1 -   Igual aos outros, a única coisa que é melhor é que a bateria carrega muito rápido.
+[1] 2 -   Excelente bateria.
+[1] 3 -   Bateria dura até 2 dias, muito boa.
+[1] 4 -   A bateria, comigo, dura um dia inteiro de uso moderado, ou dez horas de uso intenso, o que satisfaz minhas necessidades.
+[1] 5 -   Bateria excelente.
+[1] 6 -   Bateria muito boa.
+[1] 7 -   Tem uma bateria que, se utilizada corretamente, pode durar até 24h.
+[1] 8 -   Econômico na bateria!
+[1] 9 -   Algumas pessoas falam da bateria, mas pra mim está durando um dia inteiro.
+[1] 10 -   Bateria dura mais que um dia (é só não instalar o facebook rsss)
+[1] 11 -   Duração da bateria me surpreende.
+[1] 12 -   Comparando com s4 e s5, a bateria dura muito mais...
+[1] 13 -   Ótima bateria.
+[1] 14 -   Carrega rápido.
+[1] 15 -   Boa duração de bateria.
+[1] 16 -   Vamos ver a bateria daqui um tempo.
+[1] 17 -   Ótima bateria.
+[1] 18 -   A bateria dura muito e o carregador carrega muito mais rapido que os normais.
+[1] 19 -   Bateria excelente!
+[1] 20 -   A duração da bateria não é tão boa quanto deveria. tem dias que dura apenas 10 horas de uso moderado.
+[1] 21 -   Bateria de duração que chega quase 1 dia.
+[1] 22 -   Mas bateria poderia ser melhor.
+[1] 23 -   Bateria dura muito!
+[1] 24 -   Quanto mais vc usa ela descarrega mesmo porem esse modelo usando o carregador dele faz recarga rapida e carrega rapidão (testei com outro carregador e demora mais) não aconselho.
+[0] 1 -   No momento posso dizer q a bateria não dura como especificado no produto.
+[0] 2 -   Com a atualizacao a bateria deu uma diminuída na duração.
+[0] 3 -   O problema pra mim é a bateria.
+[0] 4 -   Bateria meia boca.
+[0] 5 -   A bateria é um lixo e antes das 15hs eu já preciso recarregar.
+[0] 6 -   A bateria não aguenta a tela e o processador em uso prolongado.
+[0] 7 -   Peca um pouco na duração de bateria.
+[0] 8 -   A bateria poderia durar mais.
+[0] 9 -   Mas como utilizo basicamente para redes sociais e agenda, achei que a bateria pudesse durar um pouco mais - dura no máximo um dia e meio.
+[0] 10 -   Apenas achei que a bateria fosse durar um pouco mais.
+[0] 11 -   Bateria ruim.
+[0] 12 -   Pecou na bateria que não se apresentaram tão bem no uso...
+[0] 13 -   Bateria horrível.
+[0] 14 -   A bateria dele é horrível, ainda consegue ser pior que o a do galaxy s6, que já era péssima, comprei 2 e devolvi por causa da bateria, um celular caro desse com uma bateria péssima, se usar acaba rapidinho mesmo.
+[0] 15 -   A bateria é misteriosa, hora parece que nunca acabará, já em outros momentos, não dura nada..
+[0] 16 -   Quanto à bateria, não vi melhoria. 

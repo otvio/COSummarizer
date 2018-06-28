@@ -1,0 +1,18 @@
+[1] 1 -   Bom de espaço de memória.
+[1] 2 -   Incluindo slot pra 2 chips mais cartão de memória.
+[1] 3 -   Bom.
+[1] 4 -   Ótima memória.
+[1] 5 -   Com 32gb de armazenamento que é o suficiente para usar sem problemas futuros.
+[1] 6 -   A memória ram de 2gb dá conta de realizar várias tarefas ao mesmo tempo sem travar.
+[1] 7 -   A memória é muito boa.
+[1] 8 -   Ele tem boa memória.
+[1] 9 -   Com muita memória.
+[1] 10 -   Com espaço interno de bom tamanho.
+[0] 1 -   A memória ram poderia ser 3gb.
+[0] 2 -   Único detalhe contra é que não aceita cartão de memória.
+[0] 3 -   Pouca memória para os recursos que possui, com ressalvas.
+[0] 4 -   Para mim, a memória interna deveria ser aumentada, pois o android quase ocupa toda ela.
+[0] 5 -   Pena não vender no brasil a versão americana com 4gb de ram e 64gb de memória interna (o meu é esse)
+[0] 6 -   Creio que a única coisa negativa são os "apenas" 2 gb de memória, se fossem 3 gb o aparelho seria imbativel.
+[0] 7 -   Apesar de ser rápido a memória ram ainda é baixa.
+[0] 8 -   Infelizmente os 2gb de ram não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.
