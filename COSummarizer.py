@@ -47,7 +47,7 @@
     Reference to the paper Kim & Zhai (2009):
     Hyun Duk Kim and ChengXiang Zhai, Generating Comparative Summaries of Contradictory Opinions in Text, CIKM 2009
 
-    Reference to POS Tagger in Portuguese language:
+    Reference to the POS Tagger used for Portuguese language:
     Fonseca, E. R. and Rosa, J.L.G. Mac-Morpho Revisited: Towards Robust Part-of-Speech Tagging. Proceedings of the 9th Brazilian Symposium in Information and Human Language Technology, 2013. p. 98-107
 """
 
